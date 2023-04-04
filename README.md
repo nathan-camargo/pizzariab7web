@@ -1,65 +1,43 @@
-<div>
-<h1>Sistema de compra de pizzas da plataforma b7web</h1>
-</div>
-
-<h3>
-  Projeto desenvolvido apenas para portifólio pessoal.
-</h3>
-<br>
-
-<p>
- <br>
- <!-- <a href="#visao">• Visão geral</a> <br> -->
- <a href="#leng">• Tecnologias utilizadas</a>
- <br>
- <a href="#contato">• Contato</a>
-</p>
-<br>
-
-<div id="visao">
-<h1>Visão geral</h1>
-Aplicação simulando um sistema de <strong>Pizzaria</strong>, onde é possível escolher o sabor da pizza desejada, tamanho e quantidade, tudo sendo calculado e exibido <strong>automaticamente</strong> em um modal na tela do usuário. As pizzas são obtidas através de uma requisição na API que contém todas as pizzas. Também foi trabalhado as funções de um carrinho de compras, onde é possível acrescentar ou remover a quantidade de pizzas, sendo <strong>calculado em tempo real</strong> o total que o usuário deve pagar, além de um modal confirmando o pedido.
-</div>
-<br>
-<br>
-
-<h1 align="center">
-<!-- <h1> -->
-<a href="https://kalashiev.github.io/pizzariab7web/index.html" target="_blank">Testar agora!</a> 
-</h1>
-
-<p align = "center">
-  <img src ="images/img_readme.jpg" alt = "mockup"/>
-</p>
-<br>
-
-
-<div id="leng">
-<h1>Tecnlogias utilizadas</h1>
-
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-
-</div>
-<br>
-<br>
-<br>
-
-<div id="contato">
-<h1>Como entro em contato?</h1>
-
-Entre em contato através dos links a seguir!
-<br>
-<br>
-<a href="https://www.linkedin.com/in/nathan-camargo-2aaa84212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href = "mailto:nathancamargoo11@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
-<a href="https://api.whatsapp.com/send?phone=+5511988354587" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
-<br>
-<br>
-<br>
+<p>Documenta&ccedil;&atilde;o do Sistema de Pizzaria</p>
+<p>Este &eacute; um sistema que simula uma pizzaria, onde &eacute; poss&iacute;vel escolher o sabor da pizza desejada, tamanho e quantidade, tudo sendo calculado e exibido automaticamente em um modal na tela do usu&aacute;rio. As pizzas s&atilde;o obtidas atrav&eacute;s de uma requisi&ccedil;&atilde;o na API que cont&eacute;m todas as pizzas. Tamb&eacute;m foi trabalhado as fun&ccedil;&otilde;es de um carrinho de compras, onde &eacute; poss&iacute;vel acrescentar ou remover a quantidade de pizzas, sendo calculado em tempo real o total que o usu&aacute;rio deve pagar, al&eacute;m de um modal confirmando o pedido. A aplica&ccedil;&atilde;o foi desenvolvida com HTML, CSS, JavaScript e Sass.</p>
+<p>Funcionalidades</p>
+<p>O sistema possui as seguintes funcionalidades:</p>
+<p>Sele&ccedil;&atilde;o de Pizzas Listagem das pizzas obtidas atrav&eacute;s de uma requisi&ccedil;&atilde;o na API. Op&ccedil;&atilde;o de sele&ccedil;&atilde;o do sabor, tamanho e quantidade da pizza desejada. C&aacute;lculo do valor total da compra de acordo com as op&ccedil;&otilde;es escolhidas. Bot&atilde;o para adicionar a pizza selecionada no carrinho de compras. Carrinho de Compras Listagem das pizzas adicionadas ao carrinho. Op&ccedil;&atilde;o de altera&ccedil;&atilde;o da quantidade de pizzas no carrinho. C&aacute;lculo do valor total do carrinho de compras em tempo real. Bot&atilde;o para remover a pizza do carrinho de compras. Modal de Confirma&ccedil;&atilde;o Exibi&ccedil;&atilde;o do resumo do pedido com as pizzas selecionadas e o valor total. Op&ccedil;&atilde;o de confirma&ccedil;&atilde;o do pedido.</p>
+<p>Tecnologias Utilizadas HTML: Linguagem de marca&ccedil;&atilde;o utilizada para estruturar as p&aacute;ginas web. CSS: Linguagem de estilo utilizada para estilizar as p&aacute;ginas web. JavaScript: Linguagem de programa&ccedil;&atilde;o utilizada para desenvolver a interatividade da aplica&ccedil;&atilde;o. Sass: Linguagem de estilo utilizada para escrever folhas de estilo de forma mais eficiente.</p>
+<p>Requisitos para Execu&ccedil;&atilde;o Para executar o sistema em sua m&aacute;quina, &eacute; necess&aacute;rio ter um navegador web instalado (Google Chrome, Mozilla Firefox, etc.) e uma conex&atilde;o com a internet.</p>
+<p>Instru&ccedil;&otilde;es para Execu&ccedil;&atilde;o Para executar o sistema, basta seguir os seguintes passos:</p>
+<ol>
+    <li>Clone o reposit&oacute;rio do projeto em sua m&aacute;quina usando o comando abaixo:</li>
+</ol>
+<pre><div><div>bash<button><svg fill="none" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path></svg>Copy code</button></div><div><code>git clone https://github.com/seunome/pizzaria.git
+</code></div></div></pre>
+<ol start="2">
+    <li>
+        <p>Abra o arquivo index.html em seu navegador web de prefer&ecirc;ncia.</p>
+    </li>
+    <li>
+        <p>Selecione a pizza desejada, escolhendo o sabor, tamanho e quantidade.</p>
+    </li>
+    <li>
+        <p>Clique no bot&atilde;o &quot;Adicionar ao Carrinho&quot; para adicionar a pizza selecionada ao carrinho de compras.</p>
+    </li>
+    <li>
+        <p>Selecione a op&ccedil;&atilde;o de carrinho de compras no canto superior direito da tela para visualizar o carrinho.</p>
+    </li>
+    <li>
+        <p>No carrinho, &eacute; poss&iacute;vel alterar a quantidade de pizzas e remover pizzas do carrinho.</p>
+    </li>
+    <li>
+        <p>Ao finalizar a sele&ccedil;&atilde;o das pizzas, clique no bot&atilde;o &quot;Fazer Pedido&quot; para visualizar o modal de confirma&ccedil;&atilde;o.</p>
+    </li>
+    <li>
+        <p>Confirme o pedido clicando no bot&atilde;o &quot;Confirmar Pedido&quot;.</p>
+    </li>
+    <li>
+        <p>O sistema exibir&aacute; uma mensagem de sucesso e limpar&aacute; o carrinho de compras.</p>
+    </li>
+</ol>
+<p>Conclus&atilde;o Este sistema de Pizzaria &eacute; uma aplica&ccedil;&atilde;o simples e interativa que permite aos usu&aacute;rios selecionar pizzas de sua prefer&ecirc;ncia e calcular o valor total de suas compras. Al&eacute;m disso, o sistema permite que os usu&aacute;rios adicionem e removam pizzas do carrinho de compras, al&eacute;m de visualizar um resumo do pedido antes de confirmar a compra. Com a utiliza&ccedil;&atilde;o de tecnologias como HTML, CSS, JavaScript e Sass, a aplica&ccedil;&atilde;o &eacute; capaz de fornecer uma experi&ecirc;ncia fluida e agrad&aacute;vel aos usu&aacute;rios.</p>
+<p>Este projeto pode ser utilizado como base para outras aplica&ccedil;&otilde;es que requerem a sele&ccedil;&atilde;o e compra de produtos de forma online. Al&eacute;m disso, o c&oacute;digo fonte est&aacute; dispon&iacute;vel no reposit&oacute;rio GitHub, permitindo que desenvolvedores possam contribuir com melhorias e novas funcionalidades.</p>
+<p>Caso tenha interesse em utilizar ou contribuir para este projeto, sinta-se livre para clonar o reposit&oacute;rio e testar a aplica&ccedil;&atilde;o em sua pr&oacute;pria m&aacute;quina. Qualquer feedback &eacute; bem-vindo e pode ser enviado por meio de issues no GitHub.</p>
+<p>Agradecemos por utilizar nosso sistema de Pizzaria e esperamos que ele possa ser &uacute;til em suas necessidades de sele&ccedil;&atilde;o e compra de pizzas online.</p>
