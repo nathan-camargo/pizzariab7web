@@ -9,7 +9,8 @@
 <ol>
     <li>Clone o reposit&oacute;rio do projeto em sua m&aacute;quina usando o comando abaixo:</li>
 </ol>
-<pre><div><div>bash<button><svg fill="none" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path></svg>Copy code</button></div><div><code>git clone https://github.com/seunome/pizzaria.git
+<pre><div><div>
+</div><div><code>git clone https://github.com/seunome/pizzaria.git
 </code></div></div></pre>
 <ol start="2">
     <li>
