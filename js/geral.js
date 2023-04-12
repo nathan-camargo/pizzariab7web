@@ -8,7 +8,7 @@ localStorage.getItem("pizza_cart")
   ? (cart = JSON.parse(localStorage.getItem("pizza_cart")))
   : (cart = []);
 
-const api = fetch("https://kalashiev.github.io/pizzariab7web/dadosAPI.json")
+const api = fetch("https://warlockspectre.github.io/pizzariab7web/dadosAPI.json")
   .then(async (response) => await response.json())
   .then((data) => {
     pizzas = data;
